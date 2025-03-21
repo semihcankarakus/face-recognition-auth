@@ -29,8 +29,8 @@ dlib==19.24.0
 
 1. Projeyi klonlayın:
 ```bash
-git clone https://github.com/KULLANICI_ADINIZ/REPO_ADINIZ.git
-cd REPO_ADINIZ
+git clone https://github.com/semihcankarakus/face-recognition-auth.git
+cd face-recognition-auth
 ```
 
 2. Gerekli paketleri yükleyin:
@@ -92,4 +92,4 @@ project/
 
 ## Lisans
 
-Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın. 
+Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
